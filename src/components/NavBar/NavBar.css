@@ -10,3 +10,33 @@ li {
     margin: 1rem;
     cursor: pointer;
 }
+
+.NavBar{
+background-color: pink;
+}
+
+.Categories{
+    text-align: center;
+    display: inline-block; 
+}
+
+.NavBar a{
+    font-weight:bold;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    font-size:30px;
+    font-weight:bold;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+}
+
+.NavBar h3{
+    text-align: center;
+    display: inline-block; 
+}
+
+
+.NavBar a:hover {
+    color:rgb(102, 11, 87);
+}

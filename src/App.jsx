@@ -7,7 +7,7 @@ import ItemCount from './components/ItemCount/ItemCount';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
       <BrowserRouter>
         <NavBar />
         <Routes>
