@@ -7,7 +7,7 @@ const products =
         description: "Remera1",
         price: 2200,
         stock: 30,
-        img: '../img/anya.jpg'
+        img: '../img/remera1.jpeg'
     },
 
     {
@@ -17,7 +17,7 @@ const products =
         description: "Remera2",
         price: 6500,
         stock: 25,
-        img: '../img/anya2.jpg'
+        img: '../img/remera2.jpeg'
     },
 
     {
@@ -27,7 +27,7 @@ const products =
         description: "Remera3",
         price: 30000,
         stock:100,
-        img: '../img/anya3.jpg'
+        img: '../img/remera3.jpeg'
     },
 
     {
@@ -37,7 +37,7 @@ const products =
         description: "Remera4",
         price: 6000,
         stock: 6,
-        img: '../img/anya4.jpg'
+        img: '../img/remera4.jpeg'
     },
 
     {
@@ -47,7 +47,7 @@ const products =
         description: "Pollera1",
         price: 8000,
         stock: 99,
-        img: '../img/anya5.jpg'
+        img: '../img/pollera1.jpeg'
     },
 
     {
@@ -57,7 +57,7 @@ const products =
         description: "Pollera2",
         price: 5000,
         stock: 230,
-        img: '../img/anya6.jpg'
+        img: '../img/pollera2.jpeg'
     },
 
     {
@@ -67,17 +67,17 @@ const products =
         description: "Pollera3",
         price: 6000,
         stock: 67,
-        img: '../img/anya7.jpg'
+        img: '../img/pollera3.jpeg'
     },
 
     {
         id: "8",
         name: "Pollera4",
         category: "polleras",
-        description: "Pollera4",
+        description: "pollera4",
         price: 5000,
         stock: 23,
-        img: '../img/anya8.jpg'
+        img: 'img/pollera4.jpeg'
     },
 
     {
@@ -87,7 +87,7 @@ const products =
         description: "Zapatos",
         price: 1000,
         stock: 3,
-        img: '../img/anya9.jpg'
+        img: '../img/zapatos.jpeg'
     }
 ]
 

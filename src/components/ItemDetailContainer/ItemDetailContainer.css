@@ -1,0 +1,7 @@
+.ItemDetailContainer {
+    max-width: 340px;
+    margin: 50px auto;
+    background-color: var(--white);
+    border-radius: 10px;
+    box-shadow: 0 8px 10px var(--gray);
+}
